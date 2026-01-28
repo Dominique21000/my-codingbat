@@ -10,4 +10,5 @@ Dev of the exercices :
     4. diff21
     5. parrotTrouble
     6. makes10
+    7. nearHundred
     
