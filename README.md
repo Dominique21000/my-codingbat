@@ -9,4 +9,5 @@ Dev of the exercices :
     3. sumDouble
     4. diff21
     5. parrotTrouble
+    6. makes10
     
